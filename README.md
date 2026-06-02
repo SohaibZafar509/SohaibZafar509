@@ -155,9 +155,26 @@ Research and documentation around infrastructure topics including MinIO/AIStor, 
 
 ## 📈 GitHub Stats
 
+## 📈 GitHub Activity
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohaibzafar509&show_icons=true&theme=transparent" alt="GitHub Stats">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibzafar509&layout=compact&theme=transparent" alt="Top Languages">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohaibzafar509&theme=github_dark" 
+    alt="GitHub Profile Summary" 
+  />
+</p>
+
+<p align="center">
+  <img 
+    width="48%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sohaibzafar509&theme=github_dark" 
+    alt="Repos per Language" 
+  />
+  <img 
+    width="48%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sohaibzafar509&theme=github_dark" 
+    alt="Most Commit Language" 
+  />
 </p>
 
 ---
